@@ -8,9 +8,7 @@
   "dependencies": {
     "eslint": "7.2.0",
     "gh-pages": "3.0.0",
-    "qs": "6.9.4",
     "react": "16.12.0",
-    "react-bootstrap": "1.0.1",
     "react-dom": "16.12.0",
     "react-scripts": "3.0.1"
   },
